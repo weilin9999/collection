@@ -1,4 +1,4 @@
-module github.com/jianfengye/collection
+module github.com/weilin9999/collection
 
 go 1.13
 
